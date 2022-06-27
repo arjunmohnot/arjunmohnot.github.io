@@ -1,0 +1,5 @@
+# Hello Bots 
+
+User-agent: *
+
+Disallow: /pgp_key.txt # PGP KEYS
